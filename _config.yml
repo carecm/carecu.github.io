@@ -4,10 +4,10 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: Welcome to ydr's blog
 subtitle: "carecu"
 description: "ydr的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
