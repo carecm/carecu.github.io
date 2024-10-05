@@ -4,7 +4,7 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: Welcome to ydr's blog
+title: 
 subtitle: "Welcome to ydr's blog"
 description: "ydr的个人博客"
 keywords: 
@@ -57,7 +57,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: ydr
 organization: 
 organization_url: 
 github_username: carecm
